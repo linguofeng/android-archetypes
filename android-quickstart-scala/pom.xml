@@ -10,9 +10,10 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>android-quickstart</artifactId>
+    <artifactId>android-quickstart-scala</artifactId>
     <packaging>maven-archetype</packaging>
-    <name>android-quickstart</name>
+
+    <name>android-quickstart-scala</name>
 
     <build>
         <extensions>
