@@ -1,4 +1,4 @@
-package com.linguofeng.android.scala
+package ${package}
 
 import android.os.Bundle
 import android.app.Activity
